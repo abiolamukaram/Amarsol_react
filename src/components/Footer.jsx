@@ -7,12 +7,12 @@ const Footer = () => {
         <p className="text-sm text-white font-normal">
           © 2025 Amarsol
         </p>
-        <p className="text-sm text-[#02b1f0] font-normal">
+        {/* <p className="text-sm text-[#02b1f0] font-normal">
           Powered by{" "}
           <span className="text-zinc-300">
             Labismah Global Resources Limited
           </span>
-        </p>
+        </p> */}
       </footer>
     </>
   );
